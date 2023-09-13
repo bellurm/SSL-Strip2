@@ -1,0 +1,31 @@
+
+GET http://184.24.3.140/en-US/livetile/preinstall?region=US&appid=C98EA5B0842DBB9405BBF071E1DA76512D21FE36&FORM=Threshold
+{'connection': 'Keep-Alive', 'host': 'tile-service.weather.microsoft.com', 'content-length': '0', 'user-agent': 'Microsoft-WNS/10.0'}
+
+GET http://107.180.51.21/about/
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'https://www.google.com/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1', 'upgrade-insecure-requests': '1'}
+
+GET http://107.180.51.21/wp-includes/js/thickbox/thickbox.css?ver=1.0
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://107.180.51.21/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://107.180.51.21/wp-includes/css/dist/components/style.min.css?ver=5.0.3
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://107.180.51.21/wp-includes/css/dist/nux/style.min.css?ver=5.0.3
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://107.180.51.21/wp-includes/css/dist/editor/style.min.css?ver=5.0.3
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://107.180.51.21/wp-includes/css/dist/block-library/theme.min.css?ver=5.0.3
+{'content-length': '0', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'host': 'unicornitems.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'connection': 'keep-alive', 'referer': 'http://unicornitems.com/about/', 'cookie': 'PHPSESSID=3k1i80khpoj2plnnrfrab1qvk1'}
+
+GET http://54.192.235.42/js/sharethis.js
+{'connection': 'keep-alive', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'content-length': '0', 'referer': 'http://unicornitems.com/', 'host': 'platform-api.sharethis.com', 'accept': '*/*', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36'}
+
+GET http://172.217.169.202/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&ver=5.0.3
+{'connection': 'keep-alive', 'accept-language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7', 'content-length': '0', 'referer': 'http://unicornitems.com/', 'host': 'fonts.googleapis.com', 'accept': 'text/css,*/*;q=0.1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36'}
+
